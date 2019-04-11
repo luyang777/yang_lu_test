@@ -3,7 +3,7 @@
 import re
 
 def compareVersion(version1,version2):
-    #split each version number into parts according to .
+    #split each version number into parts according to ‘.’
     s1=re.split('\.', version1)
     s2=re.split('\.',version2)
 
