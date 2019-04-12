@@ -14,4 +14,7 @@ When it compares a negtive number with a positive number, for example -1.1 and 1
 
 Question C
 
-For this question, it is a little hard for me. If I have more time, I think I could solve it.
+For this question, I used OrderedDic.
+
+Missing functionalities:
+Time expiration
